@@ -602,7 +602,7 @@ footer .inner .list li a:hover{
 }
 
 /* tablet 768 */
-@media screen and (max-width:768){
+@media screen and (max-width:768px){
     
     section.main .main-title h2 {
         font-size: 40px;
